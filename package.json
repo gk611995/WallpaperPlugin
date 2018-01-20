@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-setwallpaper",
+  "version": "1.0.0",
+  "description": "wallpaper",
+  "cordova": {
+    "id": "cordova-plugin-setwallpaper",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "gkspace",
+  "license": "ISC"
+}
