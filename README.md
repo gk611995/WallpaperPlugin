@@ -15,11 +15,12 @@ Call setimage function
 
 Currently setImage takes base64 strings only 
 
-Example:
+# Example:
 
-cordova.plugins.setwallpaper.setImage(dataUrl, function (res) {
+```cordova.plugins.setwallpaper.setImage(dataUrl, function (res) {
         console.log('response' + res)
       }, function (err) {
         console.log('error' + err)
       })
-Note:dataUrl is a base64 string
+```
+#Note:dataUrl is a base64 string
